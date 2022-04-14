@@ -58,7 +58,7 @@ Webflow.push(function () {
     $(".apple-img").addClass("current");
     $(".apple-title").addClass("current");
     waveForm.load(
-      "https://www.dropbox.com/s/o8t11cw15o0yhxm/An%20apple%20a%20day%20-%20Original.mp3?raw=1"
+      "https://uc17744491a50b9809900979ba18.dl.dropboxusercontent.com/cd/0/inline/BjVjpR2cY1pFoaNP1A4zpHadC-c1HKvRRn9COrw8USXM-JIk45DZLZN9nCbwsXvYow-K5afdh4nOACQYE-zHXzaUENulbRh3_yroFC14ryrvu4DMhlvENouourveyyId01BkncaN0h7uUoVZ5XKbRPbkvRcSv4pPQvJdMwdUDy4N9g/file#"
     );
   });
 
