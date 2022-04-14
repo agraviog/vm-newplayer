@@ -58,7 +58,7 @@ Webflow.push(function () {
     $(".apple-img").addClass("current");
     $(".apple-title").addClass("current");
     waveForm.load(
-      "https://docs.google.com/uc?export=download&id=1EzwLRM4xnZEPsxgohCMDy4iXI5-C1aq2"
+      "https://drive.google.com/uc?export=download&id=1EzwLRM4xnZEPsxgohCMDy4iXI5-C1aq2"
     );
   });
 
