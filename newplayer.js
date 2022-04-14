@@ -191,17 +191,23 @@ Webflow.push(function () {
       console.log(time);
       if (time !== 0) {
         if (playing === 1) {
-          waveForm.load("audio/an_apple_a_day_vm.mp3");
+          waveForm.load(
+            "https://uc37b763019a8272aa74b4d91c64.dl.dropboxusercontent.com/cd/0/inline/BjVKixrUYO5NApPAlJtpeubQ2a5PzhchJ0k8ucg5Cve-rp2Ll5f2q_y7uxjJSr16OTgftF4bzmIHfthIsaQhGYHbB_kiVlDollMhOFK_3vB_txqamfaY9JsNWzYIaUHmCOS1HzeVzp6bIpl2euJK3wdRWIbRT8klyIFkWvMHDNAHWA/file#"
+          );
           waveForm.on("ready", function () {
             waveForm.play(time);
           });
         } else if (playing === 2) {
-          waveForm.load("audio/harmony_vm.mp3");
+          waveForm.load(
+            "https://ucc303324c8eff969c55c092e741.dl.dropboxusercontent.com/cd/0/inline/BjW49nHRphFv_kBC0ozC3YpXD6fQ8bZRbVg7yZQrK1DEzk-FgIyTPCOS46VtCUaqpJGNkIboJBb_P1OipI1LOwC6cXYAyDOwB8OaAtFPmf_Gak70--Rq1jtWD4J0bt6v51xMYDHCEEi5dPcIWJ-iynkoYeMRD5s1wwRE_Ubw5lYs8g/file#"
+          );
           waveForm.on("ready", function () {
             waveForm.play(time);
           });
         } else if (playing === 3) {
-          waveForm.load("audio/phone_effect_vm.mp3");
+          waveForm.load(
+            "https://ucf7c2c0ac15fb1bcafb1833118a.dl.dropboxusercontent.com/cd/0/inline/BjU46ga71CzQ404zgWYsZYzSYPdnhFVNdUc-p2eI2hOJoLaFfgwK9ljeyfetHD_wYBG58MRTQDEF-dTaK152ZMDbdecXm2l6SjxddJD-9usp3pHFW1HacdZcMfh8xsPahE46oUvhmaOd81XemGkXl1aoMRQUFIhWqQsF8Q_wzQKDhg/file#"
+          );
           waveForm.on("ready", function () {
             waveForm.play(time);
           });
