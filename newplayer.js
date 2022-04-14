@@ -17,6 +17,7 @@ Webflow.push(function () {
     interact: false,
     progressColor: "#00fff6",
     cursorColor: "transparent",
+    hideScrollbar: true,
     height: 28,
     barRadius: 2,
   });
