@@ -69,24 +69,6 @@ Webflow.push(function () {
     $(this).addClass("current");
   });
 
-  //apple button
-  $(".apple-btn").on("click", function () {
-    $(".apple-img").addClass("current");
-    $(".apple-title").addClass("current");
-  });
-
-  //harmony button
-  $(".harmony-btn").on("click", function () {
-    $(".harmony-img").addClass("current");
-    $(".harmony-title").addClass("current");
-  });
-
-  //phone-effect button
-  $(".phone-effect-btn").on("click", function () {
-    $(".phone-effect-img").addClass("current");
-    $(".phone-effect-title").addClass("current");
-  });
-
   plyApple.onclick = function () {
     waveForm.load(
       "https://uc0ae5f506502e60f5f12625c313.dl.dropboxusercontent.com/cd/0/inline/BjUx7MNUBvyVDlDPezR2BTfWvNxoEm3O3TkRM_XGBWEYW79Inpzm0Y_GSKoXpqCPc4xt4j0YwAMZefSmoWx6tHTx9JH042qJ9zHTosNqhkJL0xo_P4v1izsVh4ifA66-FS4oZwZj7HUL4QIbEHY0BKOhGIJ8yEtPJlJUuNpEKEG6tw/file#"
