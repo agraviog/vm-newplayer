@@ -57,9 +57,7 @@ Webflow.push(function () {
     $(".apple-btn").addClass("current");
     $(".apple-img").addClass("current");
     $(".apple-title").addClass("current");
-    waveForm.load(
-      "https://drive.google.com/uc?export=download&id=1EzwLRM4xnZEPsxgohCMDy4iXI5-C1aq2"
-    );
+    waveForm.load("audio/an_apple_a_day_original.mp3");
   });
 
   //change current button
